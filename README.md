@@ -27,6 +27,20 @@ python DDPM_test.py --model_dir model/CMmodel/
 Our implementation builds upon several existing publicly available codes
 * [ODDM](https://github.com/DeweiHu/OCT_DDPM)
 * [DDPM](https://github.com/zoubohao/DenoisingDiffusionProbabilityModel-ddpm-)
+* [DRDM](https://github.com/HJ-harry/score-MRI)
 
-
+## Comparison
+The experimental results demonstrate the superiority of our SPIS compared to various algorithms.
+To benefit other researchers, we have organized the code for these comparative algorithms. It is
+noted that citing the original paper  according to the codes.
+* [WBM3D](https://github.com/ashkan-abbasi66/OCT-denoising-package)
+* [NLM](https://github.com/zhangprofessor/fast-Non-local-Means-and-Asymptotic-Non-local-Means)
+* [ANLM]
+* [WKSVD](https://github.com/ashkan-abbasi66/NWSR)
+* [UINT](https://github.com/mingyuliutw/unit)
+* [CUT](https://github.com/taesungp/contrastive-unpaired-translation)
+* [HDcycleGAN](https://github.com/IljaManakov/HDcycleGAN)
+* [speckle2void](https://github.com/diegovalsesia/speckle2void)
+* [ODDM](https://github.com/DeweiHu/OCT_DDPM)
+* [DRDM](https://github.com/HJ-harry/score-MRI)
 
